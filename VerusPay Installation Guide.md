@@ -381,20 +381,23 @@ Then Press save at the bottom.
 ---
 
 Then go to the Daemons Tab and select Enable Verus.  It has to be done in this order :warning:
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/plugin_enable_veruspay.png)
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+Congratulations your shop is now set up to accept VerusPay.
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+Thankyou
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+Chris - Monkins1010
 
+## Further Considerations
+
+* There 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjcxMjQyMiwtOTYwODYyMjY4LDU4OT
-MyNzAzNywyMDQyNzU1MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2
-OCwxMjQ4Nzc0MDQ4LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMT
-c4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5
-MTA0N119
+eyJoaXN0b3J5IjpbLTE5NjU0NDE3MzAsLTk2MDg2MjI2OCw1OD
+kzMjcwMzcsMjA0Mjc1NTAzOSwtNjE4ODYzOTU3LC01NTIzMzg3
+NjgsMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLD
+E3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2
+OTEwNDddfQ==
 -->
