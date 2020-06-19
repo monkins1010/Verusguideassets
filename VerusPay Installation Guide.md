@@ -358,12 +358,15 @@ Then click `Configure` Below the VerusPay plugin.
 Scroll down to this screen and type in the info as shown. replace the IP with `127.0.0.1/ChainTools/`.  Then click continue.
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/chain_connection_params.png)
 
-Put in your access code from setting up the ChainTools then press
+Put in your access code from setting up the ChainTools then press `Save`
 
 ---
-Next
+Next go back into he `configure` in the `VerusPay` Plugin.
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+First we need to check its connected to the wallet you should see a 
+
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/plugin_enable_Verus_payments.png)
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
@@ -380,9 +383,9 @@ Next
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzcwNzkzMSwtOTYwODYyMjY4LDU4OT
-MyNzAzNywyMDQyNzU1MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2
-OCwxMjQ4Nzc0MDQ4LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMT
-c4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5
-MTA0N119
+eyJoaXN0b3J5IjpbMzU1Mjg1NjA1LC05NjA4NjIyNjgsNTg5Mz
+I3MDM3LDIwNDI3NTUwMzksLTYxODg2Mzk1NywtNTUyMzM4NzY4
+LDEyNDg3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNz
+gwMzM2MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkx
+MDQ3XX0=
 -->
