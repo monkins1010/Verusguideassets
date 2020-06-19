@@ -125,13 +125,16 @@ The website will take a couple of minutes to create the website, once its done y
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_your_ip.png)
 
+Now your WordPress site is setup and ready to configure on the internet
 
-f
+---
+
+#### Now the 
 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQ4NjkwNzIsLTE1MjMzNjU5NzcsMT
+eyJoaXN0b3J5IjpbLTEwMTgzNDU4MDIsLTE1MjMzNjU5NzcsMT
 kyMDY5MTA0N119
 -->
