@@ -242,7 +242,9 @@ Right click on the session name you created earlier in the MobaXterm left hand w
 #### Logging in as wallet
 Right click on the Verus Root session in MobaXterm and select `Duplicate session`.
 
-You will have a new session called Verus root (2), right click on this and `edit session` then change the name in `specifiy username` from `root` to `wallet`.   Also change the name of the session by going into `Bookmark settings` and chanign the session name from `Verus root (2)` to `Verus wallet` 
+You will have a new session called Verus root (2), right click on this and `edit session` then change the name in `specifiy username` from `root` to `wallet`.   Also change the name of the session by going into `Bookmark settings` and changing the session name from `Verus root(2)` to `Verus wallet` 
+
+Now double click on your new `Verus wallet` session and you should be greeted with this:
 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
@@ -262,8 +264,8 @@ You will have a new session called Verus root (2), right click on this and `edit
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE2MDI5NDEsLTU1MjMzODc2OCwxMj
-Q4Nzc0MDQ4LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMTc4MDMz
-NjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5MTA0N1
-19
+eyJoaXN0b3J5IjpbLTYxODg2Mzk1NywtNTUyMzM4NzY4LDEyND
+g3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNzgwMzM2
+MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkxMDQ3XX
+0=
 -->
