@@ -205,9 +205,11 @@ We can skip this step and worry about giving you site a nice name like `www.bria
 
 ---
 
-#### Setup Verus Wallet
+#### Setup Verus Command Line Wallet
 
-Create a new user that we will log in as to install the Verus Command line wallet
+Create a new user that we will log in as to install the Verus Command line wallet.
+
+type in `
 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
@@ -227,7 +229,7 @@ Create a new user that we will log in as to install the Verus Command line walle
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5ODYyMTI4LC0yODA5MjUxMjgsLTE3ND
-Q5Mjc0ODMsMTc4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5
-NzcsMTkyMDY5MTA0N119
+eyJoaXN0b3J5IjpbMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC0xNz
+Q0OTI3NDgzLDE3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1
+OTc3LDE5MjA2OTEwNDddfQ==
 -->
