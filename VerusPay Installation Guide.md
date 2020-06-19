@@ -132,7 +132,7 @@ Now your WordPress site is setup and ready to configure on the internet
 
 As soon as the droplet is created your website will be available on the internet at  http://<<your_ip_of_your_droplet>>
 
-You will be greeted with a website asking you for your launguage, choose you luange then fillin the form below
+You will be greeted with a website asking you for your launguage, choose you luange then fillin the form below 
 
 
 #### Logging into your website with MobaXterm for the first time
@@ -191,6 +191,6 @@ Now you can double click on the newly created WordPress user and you should get 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjcxOTE2ODYsMTc4MDMzNjM1LDIwND
-YyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5MTA0N119
+eyJoaXN0b3J5IjpbODc2NDk5MjM2LDE3ODAzMzYzNSwyMDQ2Mj
+A1MDMyLC0xNTIzMzY1OTc3LDE5MjA2OTEwNDddfQ==
 -->
