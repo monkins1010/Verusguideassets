@@ -154,25 +154,14 @@ To install this zip goto `Add new` in plugins then go to `Upload Plugin`
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_choose_plugin.png)
 
 Choose the zip you just downloaded to your desktop called `VerusPay-master.zip`
-
-Once c 
  
 ---
+Once complete you will see a message saying `Plugin installed succesfully`
 
 
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_verus_installed.png)
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setup_session.png)
-Setup Woo commerce
-
-setup VEruspay 
-
-https://github.com/monkins1010/VerusPay/archive/master.zip
-
-
-
-
-
-# ADD FORM HERE TODO
+---
 
 #### Logging into your website with MobaXterm for the first time
 
@@ -230,7 +219,7 @@ Now you can double click on the newly created WordPress user and you should get 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3NjY2MzA0LC0yODA5MjUxMjgsLTE3ND
-Q5Mjc0ODMsMTc4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5
-NzcsMTkyMDY5MTA0N119
+eyJoaXN0b3J5IjpbMTY5OTcxMjQwOSwtMjgwOTI1MTI4LC0xNz
+Q0OTI3NDgzLDE3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1
+OTc3LDE5MjA2OTEwNDddfQ==
 -->
