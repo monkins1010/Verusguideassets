@@ -1,5 +1,8 @@
 ## VerusPay Installation guide for WooCommerce
 
+:warn
+
+
 This guide will show you how to setup the VerusPay plugin so that your WooCommerce store can accept cryptocurrency payments from VRSC, KMD, ARRR, ZCASH & more. 
 
 What is covered
@@ -394,9 +397,11 @@ Chris - Monkins1010
 ## Further Considerations
 
 * There is no fallover set so if the wallet goes off line people cannot payments.  Please see the **adding 500 addresses incase of wallet discconection**
-* Security should be a lot firmer than this guide, it is just a setup guide to s 
+* Security should be a lot firmer than this guide, it is just a setup guide to show the steps, further action must be taken to:
+	* Encrypt the traffic from the website i.e. use SSL 
+	* Firewall the wallet and the Chaintools.php files more securely.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzQ1MDA5MiwtOTYwODYyMjY4LDU4OT
+eyJoaXN0b3J5IjpbMTk1MjkwODEyMiwtOTYwODYyMjY4LDU4OT
 MyNzAzNywyMDQyNzU1MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2
 OCwxMjQ4Nzc0MDQ4LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMT
 c4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5
