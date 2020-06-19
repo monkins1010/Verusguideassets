@@ -132,8 +132,14 @@ Now your WordPress site is setup and ready to configure on the internet
 
 As soon as the droplet is created your website will be available on the internet at  http://<<your_ip_of_your_droplet>>
 
-You will be greeted with a website asking you for your language, choose you language then fill in the form below :warning: pick a strong 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_firstdetails.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setup_session.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setup_session.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setup_session.png)
+You will be greeted with a website asking you for your language, choose you language then fill in the form below 
+:warning: pick a strong passord and write it down :warning:
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_firstdetails.png)
+
+Once you have filled in the form, you will then be asked to login.  Login with your chosen Username and password and you;ll be greated with this screen
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setup_session.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setup_session.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setup_session.png)
 Setup Woo commerce
 
 setup VEruspay 
@@ -202,7 +208,7 @@ Now you can double click on the newly created WordPress user and you should get 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzE3ODYxNCwtMjgwOTI1MTI4LC0xNz
-Q0OTI3NDgzLDE3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1
-OTc3LDE5MjA2OTEwNDddfQ==
+eyJoaXN0b3J5IjpbNjg2OTM1NjkyLC0yODA5MjUxMjgsLTE3ND
+Q5Mjc0ODMsMTc4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5
+NzcsMTkyMDY5MTA0N119
 -->
