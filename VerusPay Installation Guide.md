@@ -134,6 +134,16 @@ As soon as the droplet is created your website will be available on the internet
 
 You will be greeted with a website asking you for your language, choose you language then fill in the form below 
 
+Setup Woo commerce
+
+setup VEruspay 
+
+https://github.com/monkins1010/VerusPay/archive/master.zip
+
+
+
+
+
 # ADD FORM HERE TODO
 
 #### Logging into your website with MobaXterm for the first time
@@ -192,6 +202,7 @@ Now you can double click on the newly created WordPress user and you should get 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ5Mjc0ODMsMTc4MDMzNjM1LDIwND
-YyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5MTA0N119
+eyJoaXN0b3J5IjpbLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNz
+gwMzM2MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkx
+MDQ3XX0=
 -->
