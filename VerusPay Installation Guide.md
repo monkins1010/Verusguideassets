@@ -367,13 +367,15 @@ First we need to check its connected to the wallet you should see a `Online` in 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/plugin_enable_Verus_payments.png)
 
-To turn the wallet on first goto Options and set all the values to something, as below
+To turn the wallet on first goto Options and set the firs 5 values to something, as below
 
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/chain_options_plugin.png)
 
+Then goto `Wallets` and first turn on 
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/plugin_enable_Verus_payments_small.png)
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+Then Press save a 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
@@ -386,9 +388,9 @@ To turn the wallet on first goto Options and set all the values to something, as
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzU3NzI5ODcsLTk2MDg2MjI2OCw1OD
-kzMjcwMzcsMjA0Mjc1NTAzOSwtNjE4ODYzOTU3LC01NTIzMzg3
-NjgsMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLD
-E3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2
-OTEwNDddfQ==
+eyJoaXN0b3J5IjpbNDAzNjcyOTIzLC05NjA4NjIyNjgsNTg5Mz
+I3MDM3LDIwNDI3NTUwMzksLTYxODg2Mzk1NywtNTUyMzM4NzY4
+LDEyNDg3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNz
+gwMzM2MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkx
+MDQ3XX0=
 -->
