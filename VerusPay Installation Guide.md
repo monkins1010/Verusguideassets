@@ -245,7 +245,7 @@ Right click on the Verus Root session in MobaXterm and select `Duplicate session
 You will have a new session called Verus root (2), right click on this and `edit session` then change the name in `specifiy username` from `root` to `wallet`.   Also change the name of the session by going into `Bookmark settings` and changing the session name from `Verus root(2)` to `Verus wallet` 
 
 Now double click on your new `Verus wallet` session and you should be greeted with this:
-
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/moba_wallet_loggedin.png)
 #### Downloading the Verus Command Line Wallet and installing it
 
 First we need to update linux so run
@@ -377,8 +377,9 @@ Scroll down to this screen and type in the info as shown. replace the IP with yo
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MDg2MjI2OCw1ODkzMjcwMzcsMjA0Mj
-c1NTAzOSwtNjE4ODYzOTU3LC01NTIzMzg3NjgsMTI0ODc3NDA0
-OCwtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLDE3ODAzMzYzNSwyMD
-Q2MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2OTEwNDddfQ==
+eyJoaXN0b3J5IjpbLTExNjAxODE1MzgsLTk2MDg2MjI2OCw1OD
+kzMjcwMzcsMjA0Mjc1NTAzOSwtNjE4ODYzOTU3LC01NTIzMzg3
+NjgsMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLD
+E3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2
+OTEwNDddfQ==
 -->
