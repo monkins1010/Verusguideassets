@@ -201,8 +201,11 @@ Now you can double click on the newly created WordPress user and you should get 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_firstlaunch.png)
 
-We can skip this step and worry about giving you site a nice name like `www.brians_laptops.com` later... i.e. a domain name and not just the four set of numbers we are typing into the web browers
+We can skip this step and worry about giving you site a nice name like `www.brians_laptops.com` later... i.e. a domain name and not just the four set of numbers we are typing into the web browser at the moment. So press `CTRL + C` to quit out and get to a new line called `root@wordpress-s-2vcpu-4gb-nyc1-01:~#`
 
+---
+
+#### Setup C
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
@@ -221,7 +224,7 @@ We can skip this step and worry about giving you site a nice name like `www.bria
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjcyNTIxMzEsLTI4MDkyNTEyOCwtMT
-c0NDkyNzQ4MywxNzgwMzM2MzUsMjA0NjIwNTAzMiwtMTUyMzM2
-NTk3NywxOTIwNjkxMDQ3XX0=
+eyJoaXN0b3J5IjpbMTQ0Mzg1MTAxLC0yODA5MjUxMjgsLTE3ND
+Q5Mjc0ODMsMTc4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5
+NzcsMTkyMDY5MTA0N119
 -->
