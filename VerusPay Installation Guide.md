@@ -162,8 +162,9 @@ Once complete you will see a message saying `Plugin installed succesfully`
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_verus_installed.png)
 
 ---
+# Setting up ChainTools
 
-#### Logging into your website with MobaXterm for the first time
+#### Logging into your server with MobaXterm for the first time
 
 Back at MobaXterm create a new session by clicking in the white space shown below and choosing `New session`
 
@@ -198,9 +199,10 @@ Next input a Friendly name for the Session `Wordpress root` is suitable.  You wo
 Now you can double click on the newly created WordPress user and you should get a connection to your server and window like this:
 
 
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_firstlaunch.png)
 
+We can skip this step unless you are an a more a
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
@@ -219,7 +221,7 @@ Now you can double click on the newly created WordPress user and you should get 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTcxMjQwOSwtMjgwOTI1MTI4LC0xNz
+eyJoaXN0b3J5IjpbMTUwNDIwMTI3MCwtMjgwOTI1MTI4LC0xNz
 Q0OTI3NDgzLDE3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1
 OTc3LDE5MjA2OTEwNDddfQ==
 -->
