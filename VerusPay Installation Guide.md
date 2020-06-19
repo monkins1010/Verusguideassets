@@ -348,6 +348,8 @@ Need to firewall ChainTools folder so no access allowed by external see guide
 
 Back to your browser type in the http://<<your_ip_of_your_droplet>>
 
+Goto plugins and activate the WooCommerce plugin.
+
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
@@ -365,7 +367,7 @@ Back to your browser type in the http://<<your_ip_of_your_droplet>>
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2NTE0NDk0LDU4OTMyNzAzNywyMDQyNz
+eyJoaXN0b3J5IjpbMTY1MTU0MjM5LDU4OTMyNzAzNywyMDQyNz
 U1MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2OCwxMjQ4Nzc0MDQ4
 LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMTc4MDMzNjM1LDIwND
 YyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5MTA0N119
