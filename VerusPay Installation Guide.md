@@ -393,11 +393,12 @@ Chris - Monkins1010
 
 ## Further Considerations
 
-* There 
+* There is no fallover set so if the wallet goes off line people cannot payments.  Please see the **adding 500 addresses incase of wallet discconection**
+* Security should be a lot firmer than this guide, it is just a setup guide to s 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjU0NDE3MzAsLTk2MDg2MjI2OCw1OD
-kzMjcwMzcsMjA0Mjc1NTAzOSwtNjE4ODYzOTU3LC01NTIzMzg3
-NjgsMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLD
-E3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2
-OTEwNDddfQ==
+eyJoaXN0b3J5IjpbLTUwMzQ1MDA5MiwtOTYwODYyMjY4LDU4OT
+MyNzAzNywyMDQyNzU1MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2
+OCwxMjQ4Nzc0MDQ4LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMT
+c4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5
+MTA0N119
 -->
