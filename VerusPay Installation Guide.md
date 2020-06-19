@@ -348,7 +348,9 @@ Need to firewall ChainTools folder so no access allowed by external see guide
 
 Back to your browser type in the http://<<your_ip_of_your_droplet>>
 
-Goto plugins and activate the WooCommerce plugin.
+Goto plugins and activate the WooCommerce plugin.  Follow through the wizard to get your basic shop ready. (it can be changed after)
+
+Then go back to Plugins and choose `Activate` on the Veruspay plugin
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
@@ -367,8 +369,8 @@ Goto plugins and activate the WooCommerce plugin.
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTU0MjM5LDU4OTMyNzAzNywyMDQyNz
-U1MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2OCwxMjQ4Nzc0MDQ4
-LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMTc4MDMzNjM1LDIwND
-YyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5MTA0N119
+eyJoaXN0b3J5IjpbLTM1NzUwMDU0OSw1ODkzMjcwMzcsMjA0Mj
+c1NTAzOSwtNjE4ODYzOTU3LC01NTIzMzg3NjgsMTI0ODc3NDA0
+OCwtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLDE3ODAzMzYzNSwyMD
+Q2MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2OTEwNDddfQ==
 -->
