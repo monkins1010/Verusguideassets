@@ -161,7 +161,7 @@ Next input a Friendly name for the Session `Wordpress root` is suitable.  You wo
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 ---
-Now you can double click on the newly created Wordpress user adn you should get a connection to your server and window like this:
+Now you can double click on the newly created WordPress user and you should get a connection to your server and window like this:
 
 
 
@@ -185,6 +185,6 @@ Now you can double click on the newly created Wordpress user adn you should get 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI5NDI4MTIsMTc4MDMzNjM1LDIwND
-YyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5MTA0N119
+eyJoaXN0b3J5IjpbLTE0OTg5ODQwOCwxNzgwMzM2MzUsMjA0Nj
+IwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkxMDQ3XX0=
 -->
