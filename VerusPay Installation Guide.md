@@ -154,7 +154,7 @@ Select `Use private key`  and find the `verus` file from `This PC > Documents > 
 
 ---
 
-Next input a Friendly name for the Session `Wordpress root` is
+Next input a Friendly name for the Session `Wordpress root` is suitable.  You wont use this account all the time because we'll make another account later..
 
 
 
@@ -179,6 +179,6 @@ Next input a Friendly name for the Session `Wordpress root` is
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjcwMjU2OSwyMDQ2MjA1MDMyLC0xNT
-IzMzY1OTc3LDE5MjA2OTEwNDddfQ==
+eyJoaXN0b3J5IjpbMTc4MDMzNjM1LDIwNDYyMDUwMzIsLTE1Mj
+MzNjU5NzcsMTkyMDY5MTA0N119
 -->
