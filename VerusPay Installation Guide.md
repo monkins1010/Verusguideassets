@@ -312,11 +312,11 @@ We need to install the ChainTools on the webserver so we can remotely run the se
 
 This will make a folder called `~/ChainTools` with a mini server in that acts a go between from the Shop to the wallet.
 
-`sudo cp -ar ~/ChainTools /var/www/html` Put the ChainTools folder in yourw
+`sudo cp -ar ~/ChainTools /var/www/html` Put the ChainTools folder in your website.
 
 `sudo chown -R www-data:www-data /var/www/html/ChainTools`
 
-goto http://<yourwebsiteip>/ChainTools/ in your web browser.
+Go to http://<yourwebsiteip>/ChainTools/ in your web browser.
 
 Youl see "Welcome to the VerusChainTools Installer"
 
@@ -378,7 +378,7 @@ Scroll down to this screen and type in the info as shown. replace the IP with yo
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjI4MDkzOSwtOTYwODYyMjY4LDU4OT
+eyJoaXN0b3J5IjpbMTQyMzkwNTM0NSwtOTYwODYyMjY4LDU4OT
 MyNzAzNywyMDQyNzU1MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2
 OCwxMjQ4Nzc0MDQ4LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMT
 c4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5
