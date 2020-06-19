@@ -240,7 +240,9 @@ Now there is a new user called wallet who we can log in as.. to do this we can d
 Right click on the session name you created earlier in the MobaXterm left hand window.  If you cant see it click on the little house icon at the top
 
 #### Logging in as wallet
-Right click on the V
+Right click on the Verus Root session and select `Duplicate session`.
+
+You will have a new session called Verus root (2), right click on this and `edit session` then cha
 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
@@ -260,8 +262,8 @@ Right click on the V
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDM4OTc4LC01NTIzMzg3NjgsMTI0OD
-c3NDA0OCwtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLDE3ODAzMzYz
-NSwyMDQ2MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2OTEwNDddfQ
-==
+eyJoaXN0b3J5IjpbMTE3NzA5NjM1NSwtNTUyMzM4NzY4LDEyND
+g3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNzgwMzM2
+MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkxMDQ3XX
+0=
 -->
