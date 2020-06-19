@@ -318,9 +318,10 @@ This will make a folder called `~/ChainTools` with a mini server in that acts a 
 
 Go to http://<yourwebsiteip>/ChainTools/ in your web browser.
 
-Youl see "Welcome to the VerusChainTools Installer"
+You'll see "Welcome to the VerusChainTools Installer"
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/chain_spash.png)
 
-copy down your private acces code and update code
+copy down your private access code and update code and put it in a document somewhere safe on your computer preferably in a pass-worded file.
 
 Choose VerusPay Wordpress mode
 
@@ -378,9 +379,9 @@ Scroll down to this screen and type in the info as shown. replace the IP with yo
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzkwNTM0NSwtOTYwODYyMjY4LDU4OT
-MyNzAzNywyMDQyNzU1MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2
-OCwxMjQ4Nzc0MDQ4LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMT
-c4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5
-MTA0N119
+eyJoaXN0b3J5IjpbLTE0NzM5NjQ0ODMsLTk2MDg2MjI2OCw1OD
+kzMjcwMzcsMjA0Mjc1NTAzOSwtNjE4ODYzOTU3LC01NTIzMzg3
+NjgsMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLD
+E3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2
+OTEwNDddfQ==
 -->
