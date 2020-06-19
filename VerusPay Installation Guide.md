@@ -247,11 +247,13 @@ You will have a new session called Verus root (2), right click on this and `edit
 Now double click on your new `Verus wallet` session and you should be greeted with this:
 
 #### Downloading the Verus Command Line Wallet and installing it
-
+Go to:
 [https://github.com/VerusCoin/VerusCoin/releases](https://github.com/VerusCoin/VerusCoin/releases/latest)
 
-Pick the latest release. and find the Verus-CLI-Linux-v0.7.0-3-amd64.tgz  
+Pick the latest release. and find the Verus-CLI-Linux-v0.7.0-3-amd64.tgz  at the bottom,
 at the current time of writing. right click on it and `copy link address`
+
+type `wget` wallet session followed by a space then right click in the 
 
 `wget https://github.com/VerusCoin/VerusCoin/releases/download/v0.7.0-3/Verus-CLI-Linux-v0.7.0-3-amd64.tgz`
 
@@ -300,7 +302,7 @@ now in /wallet/verus-cli the wallet is installed
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODcxNjIxNSwtNjE4ODYzOTU3LC01NT
+eyJoaXN0b3J5IjpbLTg1MTIzMDA4MCwtNjE4ODYzOTU3LC01NT
 IzMzg3NjgsMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC0xNzQ0OTI3
 NDgzLDE3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1OTc3LD
 E5MjA2OTEwNDddfQ==
