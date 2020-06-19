@@ -246,7 +246,36 @@ You will have a new session called Verus root (2), right click on this and `edit
 
 Now double click on your new `Verus wallet` session and you should be greeted with this:
 
+#### Downloading the Verus Command Line Wallet and installing it
 
+[https://github.com/VerusCoin/VerusCoin/releases](https://github.com/VerusCoin/VerusCoin/releases/latest)
+
+Pick the latest release. and find the Verus-CLI-Linux-v0.7.0-3-amd64.tgz  
+at the current time of writing. right click on it and `copy link address`
+
+wget [https://github.com/VerusCoin/VerusCoin/releases/download/v0.7.0-3/Verus-CLI-Linux-v0.7.0-3-amd64.tgz](https://github.com/VerusCoin/VerusCoin/releases/download/v0.7.0-3/Verus-CLI-Linux-v0.7.0-3-amd64.tgz)
+
+sudo tar -xvf Verus-CLI-Linux-v0.7.0-3-amd64.tgz
+
+sudo tar -xvf Verus-CLI-Linux-v0.7.0-3-amd64.tar.gz
+
+now in /wallet/verus-cli the wallet is installed
+
+cd verus-cli
+
+./fetchparams
+
+mkdir -p .komodo/VRSC
+
+cd ~/.komodo/VRSC
+
+wget [https://bootstrap.veruscoin.io/VRSC-bootstrap.tar.gz](https://bootstrap.veruscoin.io/VRSC-bootstrap.tar.gz)
+
+tar -xvf [https://bootstrap.veruscoin.io/VRSC-bootstrap.tar.gz](https://bootstrap.veruscoin.io/VRSC-bootstrap.tar.gz)
+
+cd ~/verus-cli
+
+run the ./verusd in a screen session or as a daemon
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
@@ -264,8 +293,8 @@ Now double click on your new `Verus wallet` session and you should be greeted wi
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODg2Mzk1NywtNTUyMzM4NzY4LDEyND
-g3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNzgwMzM2
-MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkxMDQ3XX
-0=
+eyJoaXN0b3J5IjpbNDAwOTg0Mzc2LC02MTg4NjM5NTcsLTU1Mj
+MzODc2OCwxMjQ4Nzc0MDQ4LC0yODA5MjUxMjgsLTE3NDQ5Mjc0
+ODMsMTc4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5NzcsMT
+kyMDY5MTA0N119
 -->
