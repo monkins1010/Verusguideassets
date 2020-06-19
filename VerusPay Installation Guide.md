@@ -132,8 +132,8 @@ Now your WordPress site is setup and ready to configure on the internet
 
 As soon as the droplet is created your website will be available on the internet at  http://<<your_ip_of_your_droplet>>
 
-You will be greeted with a website asking you for your language, choose you language then fill in the form below 
-
+You will be greeted with a website asking you for your language, choose you language then fill in the form below :warning: pick a strong 
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_firstdetails.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setup_session.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setup_session.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setup_session.png)
 Setup Woo commerce
 
 setup VEruspay 
@@ -202,7 +202,7 @@ Now you can double click on the newly created WordPress user and you should get 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNz
-gwMzM2MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkx
-MDQ3XX0=
+eyJoaXN0b3J5IjpbLTc3MzE3ODYxNCwtMjgwOTI1MTI4LC0xNz
+Q0OTI3NDgzLDE3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1
+OTc3LDE5MjA2OTEwNDddfQ==
 -->
