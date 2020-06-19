@@ -273,11 +273,16 @@ now in /wallet/verus-cli the wallet is installed
 
 `wget https://bootstrap.veruscoin.io/VRSC-bootstrap.tar.gz`
 
-tar -xvf `https://bootstrap.veruscoin.io/VRSC-bootstrap.tar.gz`
+`tar -xvf https://bootstrap.veruscoin.io/VRSC-bootstrap.tar.gz`
 
-cd ~/verus-cli
+`cd ~/verus-cli`
 
-run the ./verusd in a screen session or as a daemon
+`screen -S verus ./verusd`
+
+`ctrl +a` then `ctrl +d` to get back to the terminal and leave the Wallet running in a `screen`
+
+
+
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
@@ -295,8 +300,8 @@ run the ./verusd in a screen session or as a daemon
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyNTAyNzI1LC02MTg4NjM5NTcsLTU1Mj
-MzODc2OCwxMjQ4Nzc0MDQ4LC0yODA5MjUxMjgsLTE3NDQ5Mjc0
-ODMsMTc4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5NzcsMT
-kyMDY5MTA0N119
+eyJoaXN0b3J5IjpbMTc3ODcxNjIxNSwtNjE4ODYzOTU3LC01NT
+IzMzg3NjgsMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC0xNzQ0OTI3
+NDgzLDE3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1OTc3LD
+E5MjA2OTEwNDddfQ==
 -->
