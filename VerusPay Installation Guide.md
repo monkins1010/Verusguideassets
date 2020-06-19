@@ -201,7 +201,7 @@ Now you can double click on the newly created WordPress user and you should get 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_firstlaunch.png)
 
-We can skip this step unless you are an a more a
+We can skip this step and worry about giving you site a nice name like `www.brians_laptops.com` later... i.e. a domain name and not just the four set of numbers we are typing into the web browers
 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
@@ -221,7 +221,7 @@ We can skip this step unless you are an a more a
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDIwMTI3MCwtMjgwOTI1MTI4LC0xNz
-Q0OTI3NDgzLDE3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1
-OTc3LDE5MjA2OTEwNDddfQ==
+eyJoaXN0b3J5IjpbLTE2NjcyNTIxMzEsLTI4MDkyNTEyOCwtMT
+c0NDkyNzQ4MywxNzgwMzM2MzUsMjA0NjIwNTAzMiwtMTUyMzM2
+NTk3NywxOTIwNjkxMDQ3XX0=
 -->
