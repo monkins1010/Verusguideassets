@@ -148,10 +148,16 @@ Click the search box and find the WooCommerce plugin, then click install.
 Next To install the Verus pay Plugin download this file to your desktop:
 https://github.com/monkins1010/VerusPay/archive/master.zip
 
-To install this zip goto `
+To install this zip goto `Add new` in plugins then go to `Upload Plugin`
 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_choose_plugin.png)
+
+Choose the zip you just downloaded to your desktop called `VerusPay-master.zip`
+
+Once c 
+ 
+---
 
 
 
@@ -224,7 +230,7 @@ Now you can double click on the newly created WordPress user and you should get 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyMzI2MDM4LC0yODA5MjUxMjgsLTE3ND
+eyJoaXN0b3J5IjpbMjg3NjY2MzA0LC0yODA5MjUxMjgsLTE3ND
 Q5Mjc0ODMsMTc4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5
 NzcsMTkyMDY5MTA0N119
 -->
