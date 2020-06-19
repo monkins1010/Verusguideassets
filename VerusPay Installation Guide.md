@@ -136,13 +136,20 @@ Back at MobaXterm create a new session by clicking in the white space shown belo
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_new_session.png)
 
-Next select 
+---
+
+Next select `SSH`  and enter you IP address from the digital ocean site.  Specify the user `root` and Port `22` .  
+
+Select the `Advanced SSH settings` and we need to 
 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setup_session.png)
+
+
+
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzEyOTg1OTMsMjA0NjIwNTAzMiwtMT
+eyJoaXN0b3J5IjpbLTE5MDc5NzEyMzYsMjA0NjIwNTAzMiwtMT
 UyMzM2NTk3NywxOTIwNjkxMDQ3XX0=
 -->
