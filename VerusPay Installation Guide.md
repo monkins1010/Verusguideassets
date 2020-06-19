@@ -325,12 +325,16 @@ copy down your private access code and update code and put it in a document some
 
 Choose VerusPay Wordpress mode
 
-:warning::warning::warning:Important!!!!!!!! If you are selecting VRSC Type in VRSC even though its there:warning::warning::warning:
+:warning::warning::warning:Important!!!!!!!! If you are selecting VRSC Type in **VRSC** even though its there:warning::warning::warning:
 
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/chain_must_type_in_VRSC.png)
+
+Then click `Add chain`
+
+Type in a na
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/chain_put_in_addresses.png)
 
 
-then click add chain
 
 Follow instructions
 
@@ -380,9 +384,9 @@ Scroll down to this screen and type in the info as shown. replace the IP with yo
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDA5ODI0MSwtOTYwODYyMjY4LDU4OT
-MyNzAzNywyMDQyNzU1MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2
-OCwxMjQ4Nzc0MDQ4LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMT
-c4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5
-MTA0N119
+eyJoaXN0b3J5IjpbMzE1MTI2NDEyLC05NjA4NjIyNjgsNTg5Mz
+I3MDM3LDIwNDI3NTUwMzksLTYxODg2Mzk1NywtNTUyMzM4NzY4
+LDEyNDg3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNz
+gwMzM2MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkx
+MDQ3XX0=
 -->
