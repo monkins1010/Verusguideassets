@@ -246,6 +246,7 @@ You will have a new session called Verus root (2), right click on this and `edit
 
 Now double click on your new `Verus wallet` session and you should be greeted with this:
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/moba_wallet_loggedin.png)
+
 #### Downloading the Verus Command Line Wallet and installing it
 
 First we need to update linux so run
@@ -309,9 +310,9 @@ We need to install the ChainTools on the webserver so we can remotely run the se
 
 `git clone https://github.com/monkins1010/ChainTools.git `
 
-This will make a folder called ~/ChainTools with a mini server in that acts a go between from the Shop to the wallet.
+This will make a folder called `~/ChainTools` with a mini server in that acts a go between from the Shop to the wallet.
 
-`sudo cp -ar ~/ChainTools /var/www/html`
+`sudo cp -ar ~/ChainTools /var/www/html` Put the ChainTools folder in yourw
 
 `sudo chown -R www-data:www-data /var/www/html/ChainTools`
 
@@ -377,9 +378,9 @@ Scroll down to this screen and type in the info as shown. replace the IP with yo
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjAxODE1MzgsLTk2MDg2MjI2OCw1OD
-kzMjcwMzcsMjA0Mjc1NTAzOSwtNjE4ODYzOTU3LC01NTIzMzg3
-NjgsMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLD
-E3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2
-OTEwNDddfQ==
+eyJoaXN0b3J5IjpbLTcyNjI4MDkzOSwtOTYwODYyMjY4LDU4OT
+MyNzAzNywyMDQyNzU1MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2
+OCwxMjQ4Nzc0MDQ4LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMT
+c4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5
+MTA0N119
 -->
