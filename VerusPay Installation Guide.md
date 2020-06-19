@@ -140,16 +140,19 @@ Back at MobaXterm create a new session by clicking in the white space shown belo
 
 Next select `SSH`  and enter you IP address from the digital ocean site.  Specify the user `root` and Port `22` .  
 
-Select the `Advanced SSH settings` and we need to 
-
+Select the `Advanced SSH settings` 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setup_session.png)
 
 
+---
+Select `Use private key`  and find the `verus` file from `
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
+
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_choose_verus_pub.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDc5NzEyMzYsMjA0NjIwNTAzMiwtMT
-UyMzM2NTk3NywxOTIwNjkxMDQ3XX0=
+eyJoaXN0b3J5IjpbNjcyNjQxNzE3LDIwNDYyMDUwMzIsLTE1Mj
+MzNjU5NzcsMTkyMDY5MTA0N119
 -->
