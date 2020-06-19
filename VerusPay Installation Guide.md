@@ -68,7 +68,9 @@ Below you can see that I have already created two keys one called `laptop` & `i7
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_newsshkey.png)
 
-This will pop up with a window in which you need to paste your SSH Key into.  But before we do that you need to install and load up Mobaxterm (Or your other Favorited SSH Terminal).  
+This will pop up with a window in which you need to paste your SSH Key into.  But before we do that you need to install and load up Mobaxterm (Or your other favourite SSH Terminal).  
+
+---
 
 Install Mobaxterm by downloading the free  [MobaXterm Home Edition v20.2 (Installer Edtion)](https://mobaxterm.mobatek.net/download-home-edition.html)
 Click the `MobaXterm Home Edition v20.2 (Installer Edtion)` Green button int he website above and download the zip file.  Once the zip file is down loaded, double click it and run the installer program inside it called `MobaXterm_installer_20.2.msi`
@@ -78,12 +80,15 @@ Once Installed you will get a new icon on your desktop called `MobaXterm`. Doubl
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_start_local_terminal.png)
 This will bring up a black Terminal window where you will be doing most of setting up of your website.
 
+---
 In the local terminal we need to make a local SSH key so type in `ssh-keygen` and press enter.
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_create_pubkey_pair.png)
 
 Enter the file name `verus` then press enter.
 
 :warning:You can add a passphrase (password) if you want extra security, otherwise if you are a home computer that only you will use you can leave it blank.  If you choose a passphrase e.g. `Kettleteapotegg129!"#` Make sure you **Write it down somewhere safe** as you'll need it every time you log on to the server.:warning:
+
+---
 
 Once you have finished this there will be two files made in your `This PC > Documents > MobaXterm >home > .shh`  directory.   Open the file called `verus.pub` in note pad by `Right-clicking on the file`  and choose `Open with`
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/windows_openverus_pub_with.png =500x300)
@@ -113,6 +118,6 @@ The website will take a couple of minutes to create the website, once its done y
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_your_ip.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5MzQ4NTE4LC0xNTIzMzY1OTc3LDE5Mj
+eyJoaXN0b3J5IjpbNzY4NTM2Mjg0LC0xNTIzMzY1OTc3LDE5Mj
 A2OTEwNDddfQ==
 -->
