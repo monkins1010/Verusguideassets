@@ -136,12 +136,13 @@ Back at MobaXterm create a new session by clicking in the white space shown belo
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_new_session.png)
 
-N
+Next select 
 
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setup_session.png)
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOT
-IwNjkxMDQ3XX0=
+eyJoaXN0b3J5IjpbLTIxMzEyOTg1OTMsMjA0NjIwNTAzMiwtMT
+UyMzM2NTk3NywxOTIwNjkxMDQ3XX0=
 -->
