@@ -319,7 +319,7 @@ This will make a folder called `~/ChainTools` with a mini server in that acts a 
 
 `sudo chown -R www-data:www-data /var/www/html/ChainTools`
 
-Go to http://<yourwebsiteip>/ChainTools/ in your web browser.
+Go to http://yourwebsiteip/ChainTools/ in your web browser.
 
 You'll see "Welcome to the VerusChainTools Installer"
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/chain_spash.png)
