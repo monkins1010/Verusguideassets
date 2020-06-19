@@ -210,7 +210,12 @@ We can skip this step and worry about giving you site a nice name like `www.bria
 Create a new user that we will log in as to install the Verus Command line wallet.
 
 type in `adduser wallet` then press enter.
-:warning: Set a password, this will be used when the wallet user wants to do something that requires extra privileges **Write it down as wallet password ** :warning:
+:warning: Set a password, this will be used when the wallet user wants to do something that requires extra privileges **Write it down as wallet password** :warning:
+Press enter for all the user names and accept the default
+
+Type:
+
+`
 
 
 
@@ -231,7 +236,7 @@ type in `adduser wallet` then press enter.
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2NzY2MzI0LDEyNDg3NzQwNDgsLTI4MD
-kyNTEyOCwtMTc0NDkyNzQ4MywxNzgwMzM2MzUsMjA0NjIwNTAz
-MiwtMTUyMzM2NTk3NywxOTIwNjkxMDQ3XX0=
+eyJoaXN0b3J5IjpbLTU1MjMzODc2OCwxMjQ4Nzc0MDQ4LC0yOD
+A5MjUxMjgsLTE3NDQ5Mjc0ODMsMTc4MDMzNjM1LDIwNDYyMDUw
+MzIsLTE1MjMzNjU5NzcsMTkyMDY5MTA0N119
 -->
