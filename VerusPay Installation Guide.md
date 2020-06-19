@@ -162,7 +162,7 @@ Once complete you will see a message saying `Plugin installed succesfully`
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_verus_installed.png)
 
 ---
-# Setting up ChainTools
+# Setting up the Wallet
 
 #### Logging into your server with MobaXterm for the first time
 
@@ -291,6 +291,8 @@ Now you can fire up the Wallet and get it to synchronise with the block-chain.
 
 `ctrl +a` then `ctrl +d` to get back to the terminal and leave the Wallet running in a `screen`
 
+## Installing ChainTools
+
 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
@@ -310,7 +312,7 @@ Now you can fire up the Wallet and get it to synchronise with the block-chain.
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODk0MjY2NiwyMDQyNzU1MDM5LC02MT
+eyJoaXN0b3J5IjpbMTQ0NDc2Nzg0NSwyMDQyNzU1MDM5LC02MT
 g4NjM5NTcsLTU1MjMzODc2OCwxMjQ4Nzc0MDQ4LC0yODA5MjUx
 MjgsLTE3NDQ5Mjc0ODMsMTc4MDMzNjM1LDIwNDYyMDUwMzIsLT
 E1MjMzNjU5NzcsMTkyMDY5MTA0N119
