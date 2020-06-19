@@ -6,15 +6,15 @@
 This guide will show you how to setup the VerusPay plugin so that your WooCommerce store can accept cryptocurrency payments from VRSC, KMD, ARRR, ZCASH & more. 
 
 What is covered
-: ***How to install WordPress on a server***, which gives you a website for people to visit.  With the this website you can create blog pages, news pages, idea pages, anything your creative mind desires, but most importantly your WordPress site allows you to run an online shop using a Plug-in called WooCommerce.
+* ***How to install WordPress on a server***, which gives you a website for people to visit.  With the this website you can create blog pages, news pages, idea pages, anything your creative mind desires, but most importantly your WordPress site allows you to run an online shop using a Plug-in called WooCommerce.
 
-: ***How to install the VerusPay Plugin in WooCommerce***, armed with a running WordPress Website, next step is to setup the VerusPay Plugin that gives the customer the option to choose VRSC, KMD, ARRR, ZCASH & more cryptocurrencies as payment options. 
+* ***How to install the VerusPay Plugin in WooCommerce***, armed with a running WordPress Website, next step is to setup the VerusPay Plugin that gives the customer the option to choose VRSC, KMD, ARRR, ZCASH & more cryptocurrencies as payment options. 
 
-: ***How to install the Verus Command Line Wallet***, you'll need an interface to the Verus block-chain to send and receive money to anyone in the whole world.  With this unassuming text based program running on your server computer, it allows you to receive payments from customers and send them to your own personal wallet or wherever you want to process them.  It also enables you mine and stake your cryptocurrency if you so choose.
+* ***How to install the Verus Command Line Wallet***, you'll need an interface to the Verus block-chain to send and receive money to anyone in the whole world.  With this unassuming text based program running on your server computer, it allows you to receive payments from customers and send them to your own personal wallet or wherever you want to process them.  It also enables you mine and stake your cryptocurrency if you so choose.
 
-: ***How to install Verus ChainTools***, having a shop and a wallet enables you to to process customers orders and handle cryptocurrency, but we need to connect them together so that the shop website can request payment information from your wallet.  This is where ChainTools comes in, it keeps your cryptocurrency wallet  separate from your website traffic for safety.  It also allows you to connect to multiple Command line wallets to your shop so you can accept more than one type of cryptocurrency.
+* ***How to install Verus ChainTools***, having a shop and a wallet enables you to to process customers orders and handle cryptocurrency, but we need to connect them together so that the shop website can request payment information from your wallet.  This is where ChainTools comes in, it keeps your cryptocurrency wallet  separate from your website traffic for safety.  It also allows you to connect to multiple Command line wallets to your shop so you can accept more than one type of cryptocurrency.
 
-: ***How to test that you have successfully set everything up***, to confirm everything went well and that your shops up and running we'll guide you through all the checks and tests you need to do. 
+* ***How to test that you have successfully set everything up***, to confirm everything went well and that your shops up and running we'll guide you through all the checks and tests you need to do. 
 
 ## Things you'll need
 Okay, so you've got a killer new product and you want to get it into your own online shop.  You could dig out that old laptop you have had for years lying in the draw and have everything running on that.   However this is highly not recommended due to speed, scalability, down time, backup all the things we know and love about websites.
@@ -399,9 +399,9 @@ Chris - Monkins1010
 	* Encrypt the traffic from the website i.e. use SSL 
 	* Firewall the wallet and the Chaintools.php files more securely.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExNTYyMzA1LC05NjA4NjIyNjgsNTg5Mz
-I3MDM3LDIwNDI3NTUwMzksLTYxODg2Mzk1NywtNTUyMzM4NzY4
-LDEyNDg3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNz
-gwMzM2MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkx
-MDQ3XX0=
+eyJoaXN0b3J5IjpbLTE5MjI1MDAyMzksLTk2MDg2MjI2OCw1OD
+kzMjcwMzcsMjA0Mjc1NTAzOSwtNjE4ODYzOTU3LC01NTIzMzg3
+NjgsMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLD
+E3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2
+OTEwNDddfQ==
 -->
