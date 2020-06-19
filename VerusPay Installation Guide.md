@@ -355,11 +355,13 @@ Then go back to Plugins and choose `Activate` on the VerusPay plugin.
 
 Then click `Configure` Below the VerusPay plugin.
 
-Scroll down to this screen and type in the info as shown. replace the IP with your droplet IP.  Then click continue.
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/chain_put_in_addresses.png)
+Scroll down to this screen and type in the info as shown. replace the IP with `127.0.0.1/ChainTools/`.  Then click continue.
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/chain_connection_params.png)
 
+Put in your access code from setting up the ChainTools then press
 
-
+---
+Next
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
@@ -378,9 +380,9 @@ Scroll down to this screen and type in the info as shown. replace the IP with yo
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg4MDEzNzMsLTk2MDg2MjI2OCw1OD
-kzMjcwMzcsMjA0Mjc1NTAzOSwtNjE4ODYzOTU3LC01NTIzMzg3
-NjgsMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLD
-E3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2
-OTEwNDddfQ==
+eyJoaXN0b3J5IjpbMTM1NzcwNzkzMSwtOTYwODYyMjY4LDU4OT
+MyNzAzNywyMDQyNzU1MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2
+OCwxMjQ4Nzc0MDQ4LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMT
+c4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5
+MTA0N119
 -->
