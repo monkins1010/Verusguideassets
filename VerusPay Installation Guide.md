@@ -354,7 +354,7 @@ Then go back to Plugins and choose `Activate` on the VerusPay plugin.
 
 Then click `Configure` Below the VerusPay plugin.
 
-Scroll down to this screen and type in the info as shown
+Scroll down to this screen and type in the info as shown. replace the IP with your droplet IP.  Then click continue.
 
 
 
@@ -377,8 +377,8 @@ Scroll down to this screen and type in the info as shown
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0ODE3ODI4LDU4OTMyNzAzNywyMDQyNz
-U1MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2OCwxMjQ4Nzc0MDQ4
-LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMTc4MDMzNjM1LDIwND
-YyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5MTA0N119
+eyJoaXN0b3J5IjpbLTk2MDg2MjI2OCw1ODkzMjcwMzcsMjA0Mj
+c1NTAzOSwtNjE4ODYzOTU3LC01NTIzMzg3NjgsMTI0ODc3NDA0
+OCwtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLDE3ODAzMzYzNSwyMD
+Q2MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2OTEwNDddfQ==
 -->
