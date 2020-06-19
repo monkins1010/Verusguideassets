@@ -371,12 +371,16 @@ To turn the wallet on first goto Options and set the firs 5 values to something,
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/chain_options_plugin.png)
 
-Then goto `Wallets` and first turn on 
+---
+Then go to `Wallets` back in the Veruspay plugin and first turn on 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/plugin_enable_Verus_payments_small.png)
 
-Then Press save a 
+Then Press save at the bottom.
 
+---
+
+Then go to the Daemons Tab and select Enable Verus.  It has to be done in this order :warning:
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
@@ -388,9 +392,9 @@ Then Press save a
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzNjcyOTIzLC05NjA4NjIyNjgsNTg5Mz
-I3MDM3LDIwNDI3NTUwMzksLTYxODg2Mzk1NywtNTUyMzM4NzY4
-LDEyNDg3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNz
-gwMzM2MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkx
-MDQ3XX0=
+eyJoaXN0b3J5IjpbMjA3MjcxMjQyMiwtOTYwODYyMjY4LDU4OT
+MyNzAzNywyMDQyNzU1MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2
+OCwxMjQ4Nzc0MDQ4LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMT
+c4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5
+MTA0N119
 -->
