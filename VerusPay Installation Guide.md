@@ -259,15 +259,17 @@ It should say:
 
 `wget https://github.com/VerusCoin/VerusCoin/releases/download/v0.7.0-3/Verus-CLI-Linux-v0.7.0-3-amd64.tgz` 
 
-`sudo tar -xvf Verus-CLI-Linux-v0.7.0-3-amd64.tgz`
+`tar -xvf Verus-CLI-Linux-v0.7.0-3-amd64.tgz`
 
-`sudo tar -xvf Verus-CLI-Linux-v0.7.0-3-amd64.tar.gz`
+`tar -xvf Verus-CLI-Linux-v0.7.0-3-amd64.tar.gz`
 
 now in /wallet/verus-cli the wallet is installed
 
 `cd verus-cli`
 
-`./fetchparams`  This will download a load of files should take about 3 minutes on Digital OCean.
+`./fetchparams`  This will download a load of files should take about 3 minutes on Digital Ocean.
+
+Once complete
 
 `cd`
 
@@ -280,6 +282,8 @@ now in /wallet/verus-cli the wallet is installed
 `tar -xvf https://bootstrap.veruscoin.io/VRSC-bootstrap.tar.gz`
 
 `cd ~/verus-cli`
+
+Now you can fire up the Wallet and get it to synchronise with the block-chain.
 
 `screen -S verus ./verusd`
 
@@ -304,8 +308,8 @@ now in /wallet/verus-cli the wallet is installed
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk2ODAzODMsLTYxODg2Mzk1NywtNT
-UyMzM4NzY4LDEyNDg3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDky
-NzQ4MywxNzgwMzM2MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3Ny
-wxOTIwNjkxMDQ3XX0=
+eyJoaXN0b3J5IjpbMjA0Mjc1NTAzOSwtNjE4ODYzOTU3LC01NT
+IzMzg3NjgsMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC0xNzQ0OTI3
+NDgzLDE3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1OTc3LD
+E5MjA2OTEwNDddfQ==
 -->
