@@ -94,13 +94,13 @@ Enter the file name `verus` then press enter.
 ---
 
 Once you have finished this there will be two files made in your `This PC > Documents > MobaXterm >home > .shh`  directory.   Open the file called `verus.pub` in note pad by `Right-clicking on the file`  and choose `Open with`
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/windows_openverus_pub_with.png =500x300)
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/windows_openverus_pub_with.png)
 
 ---
 
 Then Choose `notepad`  and click `OK` at the bottom.
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/windows_open_with_notepad.png =400x500)
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/windows_open_with_notepad.png)
 
 ---
 
@@ -112,7 +112,7 @@ Once the verus.pub file is open, select all the contents inside it by pressing `
 
 Then go back to your web browser on the digital ocean site and paste it into `SSH key content` call the key a name that references your computer like `Main_desktop_computer_Bill` then click add.
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_paste_in_key.png =380x300)
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_paste_in_key.png)
 
 Now you have your SSH Public Key on digital ocean it will load that into your server when you create it so that only you can access it.
 
