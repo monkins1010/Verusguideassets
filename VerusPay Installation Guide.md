@@ -129,12 +129,19 @@ Now your WordPress site is setup and ready to configure on the internet
 
 ---
 
-#### Now the 
+#### Logging into your website with MobaXterm for the first time
+
+Back at MobaXterm create a new session by clicking in the white space shown below and choosing `
 
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_new_session.png)
+
+
+
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTgzNDU4MDIsLTE1MjMzNjU5NzcsMT
-kyMDY5MTA0N119
+eyJoaXN0b3J5IjpbLTc1OTk3MjE4LC0xNTIzMzY1OTc3LDE5Mj
+A2OTEwNDddfQ==
 -->
