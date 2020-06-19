@@ -235,9 +235,13 @@ Make it readable only by your user:
 
 `sudo chmod 600 /home/wallet/.ssh/authorized_keys`
 
-Now there is a new user called wallet who we can log in as.. to do this we can duplicate outr current session in mobaXterm.
+Now there is a new user called wallet who we can log in as.. to do this we can duplicate outr current session in MobaXterm.
 
-Right click on the session name you created earlier in teh mobaXterm left hand window.  If you cant see it close down the Verus Root session at the top by clicking  the little `x` 
+Right click on the session name you created earlier in the MobaXterm left hand window.  If you cant see it click on the little house icon at the top
+
+#### Logging in as wallet
+Right click on the V
+
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
@@ -256,8 +260,8 @@ Right click on the session name you created earlier in teh mobaXterm left hand w
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjA5MjIwMCwtNTUyMzM4NzY4LDEyND
-g3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNzgwMzM2
-MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkxMDQ3XX
-0=
+eyJoaXN0b3J5IjpbLTQzNDM4OTc4LC01NTIzMzg3NjgsMTI0OD
+c3NDA0OCwtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLDE3ODAzMzYz
+NSwyMDQ2MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2OTEwNDddfQ
+==
 -->
