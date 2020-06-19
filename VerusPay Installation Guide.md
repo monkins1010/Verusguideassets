@@ -364,7 +364,7 @@ Scroll down to this screen and type in the info as shown. replace the IP with `1
 Put in your access code from setting up the ChainTools then press `Save`
 
 ---
-Next go back into he `configure` in the `VerusPay` Plugin.
+Next go back into the `configure` in the `VerusPay` Plugin.
 
 First we need to check its connected to the wallet you should see a `Online` in green if everything is happy.
 
