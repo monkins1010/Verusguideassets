@@ -363,10 +363,13 @@ Put in your access code from setting up the ChainTools then press `Save`
 ---
 Next go back into he `configure` in the `VerusPay` Plugin.
 
-First we need to check its connected to the wallet you should see a 
+First we need to check its connected to the wallet you should see a `Online` in green if everything is happy.
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/plugin_enable_Verus_payments.png)
+
+To turn the wallet on first goto Options and set all the values to something, as below
 
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/plugin_enable_Verus_payments.png)
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
@@ -383,9 +386,9 @@ First we need to check its connected to the wallet you should see a
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1Mjg1NjA1LC05NjA4NjIyNjgsNTg5Mz
-I3MDM3LDIwNDI3NTUwMzksLTYxODg2Mzk1NywtNTUyMzM4NzY4
-LDEyNDg3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNz
-gwMzM2MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkx
-MDQ3XX0=
+eyJoaXN0b3J5IjpbLTEwMzU3NzI5ODcsLTk2MDg2MjI2OCw1OD
+kzMjcwMzcsMjA0Mjc1NTAzOSwtNjE4ODYzOTU3LC01NTIzMzg3
+NjgsMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLD
+E3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2
+OTEwNDddfQ==
 -->
