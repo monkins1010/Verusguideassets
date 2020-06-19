@@ -344,6 +344,10 @@ Shoud say Successfully Installed!
 Need to firewall ChainTools folder so no access allowed by external see guide
 
 
+## Final setup and test
+
+Back to your browser type in the http://<<your_ip_of_your_droplet>>
+
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
@@ -361,8 +365,8 @@ Need to firewall ChainTools folder so no access allowed by external see guide
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5MzI3MDM3LDIwNDI3NTUwMzksLTYxOD
-g2Mzk1NywtNTUyMzM4NzY4LDEyNDg3NzQwNDgsLTI4MDkyNTEy
-OCwtMTc0NDkyNzQ4MywxNzgwMzM2MzUsMjA0NjIwNTAzMiwtMT
-UyMzM2NTk3NywxOTIwNjkxMDQ3XX0=
+eyJoaXN0b3J5IjpbNTQ2NTE0NDk0LDU4OTMyNzAzNywyMDQyNz
+U1MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2OCwxMjQ4Nzc0MDQ4
+LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMTc4MDMzNjM1LDIwND
+YyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5MTA0N119
 -->
