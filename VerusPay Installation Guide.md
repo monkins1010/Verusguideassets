@@ -277,7 +277,8 @@ Once complete
 
 `cd ~/.komodo/VRSC`
 
-Download the blockchain bootstrap, this considerab
+Download the block-chain bootstrap, this considerably speeds up synchronisation of the block-chain from days to minutes...
+
 `wget https://bootstrap.veruscoin.io/VRSC-bootstrap.tar.gz`
 
 `tar -xvf https://bootstrap.veruscoin.io/VRSC-bootstrap.tar.gz`
@@ -309,8 +310,8 @@ Now you can fire up the Wallet and get it to synchronise with the block-chain.
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzY2NDU5MiwyMDQyNzU1MDM5LC02MT
-g4NjM5NTcsLTU1MjMzODc2OCwxMjQ4Nzc0MDQ4LC0yODA5MjUx
-MjgsLTE3NDQ5Mjc0ODMsMTc4MDMzNjM1LDIwNDYyMDUwMzIsLT
-E1MjMzNjU5NzcsMTkyMDY5MTA0N119
+eyJoaXN0b3J5IjpbLTE0OTUxNjMzMTgsMjA0Mjc1NTAzOSwtNj
+E4ODYzOTU3LC01NTIzMzg3NjgsMTI0ODc3NDA0OCwtMjgwOTI1
+MTI4LC0xNzQ0OTI3NDgzLDE3ODAzMzYzNSwyMDQ2MjA1MDMyLC
+0xNTIzMzY1OTc3LDE5MjA2OTEwNDddfQ==
 -->
