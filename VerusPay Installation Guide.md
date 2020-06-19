@@ -217,25 +217,25 @@ Type: (To make the wallet a sudo user)
 
 `usermod -aG sudo wallet`
 
-Create the folder if it doesn't already exist:
-
-`mkdir /home/$USER/.ssh`
+`mkdir /home/wallet/.ssh`
 
 Make the directory only executable by the user:
 
-`chmod 700 /home/$USER/.ssh`
+`chmod 700 /home/wallet/.ssh`
 
 Copy the  `authorized_keys`  file that contains your public key:
 
-`sudo cp /root/.ssh/authorized_keys /home/$USER/.ssh/authorized_keys`
+`sudo cp /root/.ssh/authorized_keys /home/wallet/.ssh/authorized_keys`
 
 Make everything in  `.ssh`  owned by your user:
 
-`sudo chown -R $USER:$USER /home/$USER/.ssh`
+`sudo chown -R wallet:wallet /home/wallet/.ssh`
 
 Make it readable only by your user:
 
-`sudo chmod 600 /home/$USER/.ssh/authorized_keys`
+`sudo chmod 600 /home/wallet/.ssh/authorized_keys`
+
+
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
@@ -254,7 +254,7 @@ Make it readable only by your user:
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjcwNDI1MywtNTUyMzM4NzY4LDEyND
+eyJoaXN0b3J5IjpbLTg0MTYwNDk2NywtNTUyMzM4NzY4LDEyND
 g3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNzgwMzM2
 MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkxMDQ3XX
 0=
