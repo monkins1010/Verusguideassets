@@ -93,13 +93,19 @@ Enter the file name `verus` then press enter.
 Once you have finished this there will be two files made in your `This PC > Documents > MobaXterm >home > .shh`  directory.   Open the file called `verus.pub` in note pad by `Right-clicking on the file`  and choose `Open with`
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/windows_openverus_pub_with.png =500x300)
 
+---
+
 Then Choose `notepad`  and click `OK` at the bottom.
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/windows_open_with_notepad.png =400x500)
 
+---
+
 Once the verus.pub file is open, select all the contents inside it by pressing `ctrl + a` then copy it.
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/windows_copy_pubkey_for_ocean.png)
+
+---
 
 Then go back to your web browser on the digital ocean site and paste it into `SSH key content` call the key a name that references your computer like `Main_desktop_computer_Bill` then click add.
 
@@ -111,13 +117,21 @@ Next Select the keys that you want to associate with your website, by click the 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_create_droplet.png)
 
+---
+
 The website will take a couple of minutes to create the website, once its done you will see an IP address in the 
 
 
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_your_ip.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_your_ip.png)
+
+
+f
+
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY4NTM2Mjg0LC0xNTIzMzY1OTc3LDE5Mj
-A2OTEwNDddfQ==
+eyJoaXN0b3J5IjpbLTE0NzQ4NjkwNzIsLTE1MjMzNjU5NzcsMT
+kyMDY5MTA0N119
 -->
