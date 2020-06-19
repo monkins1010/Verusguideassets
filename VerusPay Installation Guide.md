@@ -146,13 +146,21 @@ Select the `Advanced SSH settings`
 
 
 ---
-Select `Use private key`  and find the `verus` file from `
+Select `Use private key`  and find the `verus` file from `This PC > Documents > MobaXterm >home > .shh`  directory. 
 
 
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_choose_verus_pub.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_choose_verus_pub.png)
+
+---
+
+Next 
+
+
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyNjQxNzE3LDIwNDYyMDUwMzIsLTE1Mj
+eyJoaXN0b3J5IjpbOTUwMzQyOTM4LDIwNDYyMDUwMzIsLTE1Mj
 MzNjU5NzcsMTkyMDY5MTA0N119
 -->
