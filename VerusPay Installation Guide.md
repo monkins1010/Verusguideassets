@@ -235,7 +235,7 @@ Make it readable only by your user:
 
 `sudo chmod 600 /home/wallet/.ssh/authorized_keys`
 
-
+Now there is a new user called wallet who we can log 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
@@ -254,7 +254,7 @@ Make it readable only by your user:
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTYwNDk2NywtNTUyMzM4NzY4LDEyND
+eyJoaXN0b3J5IjpbLTQ5ODU3ODMzMSwtNTUyMzM4NzY4LDEyND
 g3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNzgwMzM2
 MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkxMDQ3XX
 0=
