@@ -213,11 +213,29 @@ type in `adduser wallet` then press enter.
 :warning: Set a password, this will be used when the wallet user wants to do something that requires extra privileges **Write it down as wallet password** :warning:
 Press enter for all the user names and accept the default
 
-Type:
+Type: (To make the wallet a sudo user)
 
-`
+`usermod -aG sudo wallet`
 
+Create the folder if it doesn't already exist:
 
+`mkdir /home/$USER/.ssh`
+
+Make the directory only executable by the user:
+
+`chmod 700 /home/$USER/.ssh`
+
+Copy the  `authorized_keys`  file that contains your public key:
+
+`sudo cp /root/.ssh/authorized_keys /home/$USER/.ssh/authorized_keys`
+
+Make everything in  `.ssh`  owned by your user:
+
+`sudo chown -R $USER:$USER /home/$USER/.ssh`
+
+Make it readable only by your user:
+
+`sudo chmod 600 /home/$USER/.ssh/authorized_keys`
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
@@ -236,7 +254,8 @@ Type:
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjMzODc2OCwxMjQ4Nzc0MDQ4LC0yOD
-A5MjUxMjgsLTE3NDQ5Mjc0ODMsMTc4MDMzNjM1LDIwNDYyMDUw
-MzIsLTE1MjMzNjU5NzcsMTkyMDY5MTA0N119
+eyJoaXN0b3J5IjpbMTIwMjcwNDI1MywtNTUyMzM4NzY4LDEyND
+g3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNzgwMzM2
+MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkxMDQ3XX
+0=
 -->
