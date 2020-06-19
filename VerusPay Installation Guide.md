@@ -41,9 +41,11 @@ At the top select
 	![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/createdroplet.png)
 
 Then Pick `Marketplace`  >> `WordPress on 18.04`
+
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
 
 Choose from the Standard Plan the 4GB RAM, 2 CPU Cores, 80GB HD Space for $20 a month.
+
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_20dollaplan.png)
 
 Choose your region you want the server to reside, think of your customers location and if they are all American citizens then pick  one in that region.
@@ -99,5 +101,5 @@ The website will take a couple of minutes to create the website, once its done y
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_your_ip.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDY5MTA0N119
+eyJoaXN0b3J5IjpbLTE1MjMzNjU5NzcsMTkyMDY5MTA0N119
 -->
