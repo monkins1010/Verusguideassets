@@ -305,8 +305,43 @@ Now you can fire up the Wallet and get it to synchronise with the block-chain.
 ## Installing ChainTools
 
 We need to install the ChainTools on the webserver so we can remotely run the setup.
+`cd`
 
-`wget  
+`git clone https://github.com/monkins1010/ChainTools.git `
+
+This will make a folder called ~/ChainTools with a mini server in that acts a go between from the Shop to the wallet.
+
+`sudo cp -ar ~/ChainTools /var/www/html`
+
+sudo chown -R www-data:www-data /var/www/html/ChainTools
+
+goto http://<yourwebsiteip>/ChainTools/
+
+Youl see "Welcome to the VerusChainTools Installer"
+
+copy down your private acces code and update code
+
+Choose VerusPay Wordpress mode
+
+Important!!!!!!!!!
+
+IF you are selecting VRSC Type in VRSC even though its there
+
+then click add chain
+
+Follow instructions
+
+default folder location is correct for VRSC if you have installed in the default location
+
+So type in /home/<user>/.komodo/VRSC
+
+Fill in the payout address you want he shop to pay to.. e.g. you home personal VRSC
+
+Press save
+
+Shoud say Successfully Installed!
+
+Need to firewall ChainTools folder so no access allowed by external see guide
 
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
@@ -326,8 +361,8 @@ We need to install the ChainTools on the webserver so we can remotely run the se
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY1NDk0MzcsMjA0Mjc1NTAzOSwtNj
-E4ODYzOTU3LC01NTIzMzg3NjgsMTI0ODc3NDA0OCwtMjgwOTI1
-MTI4LC0xNzQ0OTI3NDgzLDE3ODAzMzYzNSwyMDQ2MjA1MDMyLC
-0xNTIzMzY1OTc3LDE5MjA2OTEwNDddfQ==
+eyJoaXN0b3J5IjpbLTM2Nzg0NjU0MywyMDQyNzU1MDM5LC02MT
+g4NjM5NTcsLTU1MjMzODc2OCwxMjQ4Nzc0MDQ4LC0yODA5MjUx
+MjgsLTE3NDQ5Mjc0ODMsMTc4MDMzNjM1LDIwNDYyMDUwMzIsLT
+E1MjMzNjU5NzcsMTkyMDY5MTA0N119
 -->
