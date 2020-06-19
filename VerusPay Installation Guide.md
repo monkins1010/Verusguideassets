@@ -305,7 +305,7 @@ Now you can fire up the Wallet and get it to synchronise with the block-chain.
 ## Installing ChainTools
 
 We need to install the ChainTools on the webserver so we can remotely run the setup.
-`cd`
+`cd`  To get back to the wallet directory.
 
 `git clone https://github.com/monkins1010/ChainTools.git `
 
@@ -313,9 +313,9 @@ This will make a folder called ~/ChainTools with a mini server in that acts a go
 
 `sudo cp -ar ~/ChainTools /var/www/html`
 
-sudo chown -R www-data:www-data /var/www/html/ChainTools
+`sudo chown -R www-data:www-data /var/www/html/ChainTools`
 
-goto http://<yourwebsiteip>/ChainTools/
+goto http://<yourwebsiteip>/ChainTools/ in your web browser.
 
 Youl see "Welcome to the VerusChainTools Installer"
 
@@ -361,8 +361,8 @@ Need to firewall ChainTools folder so no access allowed by external see guide
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Nzg0NjU0MywyMDQyNzU1MDM5LC02MT
-g4NjM5NTcsLTU1MjMzODc2OCwxMjQ4Nzc0MDQ4LC0yODA5MjUx
-MjgsLTE3NDQ5Mjc0ODMsMTc4MDMzNjM1LDIwNDYyMDUwMzIsLT
-E1MjMzNjU5NzcsMTkyMDY5MTA0N119
+eyJoaXN0b3J5IjpbNTg5MzI3MDM3LDIwNDI3NTUwMzksLTYxOD
+g2Mzk1NywtNTUyMzM4NzY4LDEyNDg3NzQwNDgsLTI4MDkyNTEy
+OCwtMTc0NDkyNzQ4MywxNzgwMzM2MzUsMjA0NjIwNTAzMiwtMT
+UyMzM2NTk3NywxOTIwNjkxMDQ3XX0=
 -->
