@@ -247,6 +247,11 @@ You will have a new session called Verus root (2), right click on this and `edit
 Now double click on your new `Verus wallet` session and you should be greeted with this:
 
 #### Downloading the Verus Command Line Wallet and installing it
+
+First we need to update linux so run
+
+`sudo apt-get update`   type in your wallet password  from earlier when prompted/
+
 Go to:
 [https://github.com/VerusCoin/VerusCoin/releases](https://github.com/VerusCoin/VerusCoin/releases/latest)
 
@@ -312,8 +317,8 @@ Now you can fire up the Wallet and get it to synchronise with the block-chain.
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDc2Nzg0NSwyMDQyNzU1MDM5LC02MT
-g4NjM5NTcsLTU1MjMzODc2OCwxMjQ4Nzc0MDQ4LC0yODA5MjUx
-MjgsLTE3NDQ5Mjc0ODMsMTc4MDMzNjM1LDIwNDYyMDUwMzIsLT
-E1MjMzNjU5NzcsMTkyMDY5MTA0N119
+eyJoaXN0b3J5IjpbLTEzMDMyODMzMTYsMjA0Mjc1NTAzOSwtNj
+E4ODYzOTU3LC01NTIzMzg3NjgsMTI0ODc3NDA0OCwtMjgwOTI1
+MTI4LC0xNzQ0OTI3NDgzLDE3ODAzMzYzNSwyMDQ2MjA1MDMyLC
+0xNTIzMzY1OTc3LDE5MjA2OTEwNDddfQ==
 -->
