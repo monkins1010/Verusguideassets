@@ -331,22 +331,16 @@ Choose VerusPay Wordpress mode
 
 Then click `Add chain`
 
-Type in a na
+---
+Type in a name and the VRSC wallet location as below
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/chain_put_in_addresses.png)
 
 
+Fill in the payout address you want he shop to pay to.. e.g. you home personal VRSC addresses/
 
-Follow instructions
+Press `Save`
 
-default folder location is correct for VRSC if you have installed in the default location
-
-So type in /home/<user>/.komodo/VRSC
-
-Fill in the payout address you want he shop to pay to.. e.g. you home personal VRSC
-
-Press save
-
-Shoud say Successfully Installed!
+The Website should change to `Successfully Installed!`
 
 Need to firewall ChainTools folder so no access allowed by external see guide
 
@@ -384,9 +378,9 @@ Scroll down to this screen and type in the info as shown. replace the IP with yo
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MTI2NDEyLC05NjA4NjIyNjgsNTg5Mz
-I3MDM3LDIwNDI3NTUwMzksLTYxODg2Mzk1NywtNTUyMzM4NzY4
-LDEyNDg3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNz
-gwMzM2MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkx
-MDQ3XX0=
+eyJoaXN0b3J5IjpbMTA1NzAzMjM5NiwtOTYwODYyMjY4LDU4OT
+MyNzAzNywyMDQyNzU1MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2
+OCwxMjQ4Nzc0MDQ4LC0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMT
+c4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5
+MTA0N119
 -->
