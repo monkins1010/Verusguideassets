@@ -35,25 +35,37 @@ What you'll need
 1. Goto [Digital Ocean](https://cloud.digitalocean.com/) and setup an account, this [Referal Link](https://m.do.co/c/cf6b23e11b50) will  get you $100 to spend over 60 days. After that the Plan we are loooking at is around $20 a month at time of writing June 19th 2020.
 2. Create a Droplet (this is what Digital ocean call servers).
 
-Go to   ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/droplets.png) on the left hand panel in the Digital Ocean website.
+Go to   
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/droplets.png)
+ on the left hand panel in the Digital Ocean website.
 
+---
 At the top select  
 	![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/createdroplet.png)
+
+---
 
 Then Pick `Marketplace`  >> `WordPress on 18.04`
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
 
+---
+
 Choose from the Standard Plan the 4GB RAM, 2 CPU Cores, 80GB HD Space for $20 a month.
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_20dollaplan.png)
 
+---
+
 Choose your region you want the server to reside, think of your customers location and if they are all American citizens then pick  one in that region.
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseregion.png)
+
+---
 
 Next skip down to `Authentication` ,we are going to log into the server with a special key (SSH Key) which is an encrypted password that will be stored on your computer.  This is a very strong password and means that only you will be able to log onto the server.
 
 Below you can see that I have already created two keys one called `laptop` & `i7` these are two different computers.  So they will both be able to log onto the server if we select them both.  To create a new one.  Click  `New SSH Key`
+
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_newsshkey.png)
 
 This will pop up with a window in which you need to paste your SSH Key into.  But before we do that you need to install and load up Mobaxterm (Or your other Favorited SSH Terminal).  
@@ -101,5 +113,6 @@ The website will take a couple of minutes to create the website, once its done y
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_your_ip.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjMzNjU5NzcsMTkyMDY5MTA0N119
+eyJoaXN0b3J5IjpbOTM5MzQ4NTE4LC0xNTIzMzY1OTc3LDE5Mj
+A2OTEwNDddfQ==
 -->
