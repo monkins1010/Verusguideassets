@@ -134,7 +134,7 @@ As soon as the droplet is created your website will be available on the internet
 
 You will be greeted with a website asking you for your language, choose you language then fill in the form below 
 
-# ADD FORM HERE TO
+# ADD FORM HERE TODO
 
 #### Logging into your website with MobaXterm for the first time
 
@@ -192,6 +192,6 @@ Now you can double click on the newly created WordPress user and you should get 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODM0MDI0MCwxNzgwMzM2MzUsMjA0Nj
-IwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkxMDQ3XX0=
+eyJoaXN0b3J5IjpbLTE3NDQ5Mjc0ODMsMTc4MDMzNjM1LDIwND
+YyMDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5MTA0N119
 -->
