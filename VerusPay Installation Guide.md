@@ -154,13 +154,31 @@ Select `Use private key`  and find the `verus` file from `This PC > Documents > 
 
 ---
 
-Next 
+Next input a Friendly name for the Session `Wordpress root` is
 
 
 
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_chooseanimagewordp.png)
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/moba_setname.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwMzQyOTM4LDIwNDYyMDUwMzIsLTE1Mj
-MzNjU5NzcsMTkyMDY5MTA0N119
+eyJoaXN0b3J5IjpbLTkyMjcwMjU2OSwyMDQ2MjA1MDMyLC0xNT
+IzMzY1OTc3LDE5MjA2OTEwNDddfQ==
 -->
