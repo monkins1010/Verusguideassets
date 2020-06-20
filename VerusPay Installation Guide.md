@@ -282,7 +282,7 @@ now in /wallet/verus-cli the wallet is installed
 
 `cd verus-cli`
 
-`./fetchparams`  This will download a load of files should take about 3 minutes on Digital Ocean.
+`./fetch-params`  This will download a load of files should take about 3 minutes on Digital Ocean.
 
 Once complete
 
