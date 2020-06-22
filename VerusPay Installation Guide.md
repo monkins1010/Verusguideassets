@@ -399,9 +399,9 @@ Chris - Monkins1010
 	* Encrypt the traffic from the website i.e. use SSL 
 	* Firewall the wallet and the Chaintools.php files more securely.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI1MDAyMzksLTk2MDg2MjI2OCw1OD
-kzMjcwMzcsMjA0Mjc1NTAzOSwtNjE4ODYzOTU3LC01NTIzMzg3
-NjgsMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLD
-E3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2
-OTEwNDddfQ==
+eyJoaXN0b3J5IjpbLTExNjM1NzU3MTIsLTE5MjI1MDAyMzksLT
+k2MDg2MjI2OCw1ODkzMjcwMzcsMjA0Mjc1NTAzOSwtNjE4ODYz
+OTU3LC01NTIzMzg3NjgsMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC
+0xNzQ0OTI3NDgzLDE3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIz
+MzY1OTc3LDE5MjA2OTEwNDddfQ==
 -->
