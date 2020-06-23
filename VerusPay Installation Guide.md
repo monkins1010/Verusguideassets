@@ -128,7 +128,7 @@ The website will take a couple of minutes to create the website, once its done y
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/ocean_your_ip.png)
 
-Now your WordPress site is setup and ready to configure on the internet
+Now your WordPress site is setup, but before you can have a look at it on your internet browser we need to log into the sever first.
 
 ---
 #### Setting up an Admin user on WordPress to get the security set
@@ -399,9 +399,9 @@ Chris - Monkins1010
 	* Encrypt the traffic from the website i.e. use SSL 
 	* Firewall the wallet and the Chaintools.php files more securely.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM1NzU3MTIsLTE5MjI1MDAyMzksLT
-k2MDg2MjI2OCw1ODkzMjcwMzcsMjA0Mjc1NTAzOSwtNjE4ODYz
-OTU3LC01NTIzMzg3NjgsMTI0ODc3NDA0OCwtMjgwOTI1MTI4LC
-0xNzQ0OTI3NDgzLDE3ODAzMzYzNSwyMDQ2MjA1MDMyLC0xNTIz
-MzY1OTc3LDE5MjA2OTEwNDddfQ==
+eyJoaXN0b3J5IjpbLTEyOTk3MDc4MjMsLTExNjM1NzU3MTIsLT
+E5MjI1MDAyMzksLTk2MDg2MjI2OCw1ODkzMjcwMzcsMjA0Mjc1
+NTAzOSwtNjE4ODYzOTU3LC01NTIzMzg3NjgsMTI0ODc3NDA0OC
+wtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLDE3ODAzMzYzNSwyMDQ2
+MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2OTEwNDddfQ==
 -->
