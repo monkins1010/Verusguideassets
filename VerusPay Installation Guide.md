@@ -371,6 +371,7 @@ First we need to check its connected to the wallet you should see a `Online` in 
 To turn the wallet on first goto Options and set the firs 5 values to something, as below
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/3/chain_options_plugin.png)
+Then press save
 
 ---
 Then go to `Wallets` back in the Veruspay plugin and first turn on 
@@ -397,10 +398,10 @@ Chris - Monkins1010
 	* Encrypt the traffic from the website i.e. use SSL 
 	* Firewall the wallet and the Chaintools.php files more securely.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Mzc2MDIwMywtNTk4MTY4NTUyLC0xMT
-YzNTc1NzEyLC0xOTIyNTAwMjM5LC05NjA4NjIyNjgsNTg5MzI3
-MDM3LDIwNDI3NTUwMzksLTYxODg2Mzk1NywtNTUyMzM4NzY4LD
-EyNDg3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNzgw
-MzM2MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkxMD
-Q3XX0=
+eyJoaXN0b3J5IjpbNjM1OTE5ODY4LDE4NjM3NjAyMDMsLTU5OD
+E2ODU1MiwtMTE2MzU3NTcxMiwtMTkyMjUwMDIzOSwtOTYwODYy
+MjY4LDU4OTMyNzAzNywyMDQyNzU1MDM5LC02MTg4NjM5NTcsLT
+U1MjMzODc2OCwxMjQ4Nzc0MDQ4LC0yODA5MjUxMjgsLTE3NDQ5
+Mjc0ODMsMTc4MDMzNjM1LDIwNDYyMDUwMzIsLTE1MjMzNjU5Nz
+csMTkyMDY5MTA0N119
 -->
