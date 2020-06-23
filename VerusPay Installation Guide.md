@@ -130,44 +130,9 @@ The website will take a couple of minutes to create the website, once its done y
 
 Now your WordPress site is setup, but before you can have a look at it on your internet browser we need to log into the sever first.
 
----
-#### Setting up an Admin user on WordPress to get the security set
-
-As soon as the droplet is created your website will be available on the internet at  http://<<your_ip_of_your_droplet>>
-
-You will be greeted with a website asking you for your language, choose you language then fill in the form below 
-:warning: pick a strong passord and write it down :warning:
-
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_firstdetails.png)
-
-Once you have filled in the form, you will then be asked to login.  Login with your chosen Username and password and you;ll be greated with this screen:
-
-Go to `Plugins` and install `WooCommerce`
-
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_first_mainscreen.png)
-
-Click the search box and find the WooCommerce plugin, then click install.
-
-Next To install the Verus pay Plugin download this file to your desktop:
-https://github.com/monkins1010/VerusPay/archive/master.zip
-
-To install this zip goto `Add new` in plugins then go to `Upload Plugin`
-
-
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_choose_plugin.png)
-
-Choose the zip you just downloaded to your desktop called `VerusPay-master.zip`
- 
----
-Once complete you will see a message saying `Plugin installed succesfully`
-
-
-![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_verus_installed.png)
 
 ---
-# Setting up the Wallet
-
-#### Logging into your server with MobaXterm for the first time
+# Logging into your server with MobaXterm for the first time
 
 Back at MobaXterm create a new session by clicking in the white space shown below and choosing `New session`
 
@@ -347,6 +312,39 @@ The Website should change to `Successfully Installed!`
 
 Need to firewall ChainTools folder so no access allowed by external see guide
 
+---
+#### Setting up an Admin user on WordPress to get the security set
+
+As soon as the droplet is created your website will be available on the internet at  http://<<your_ip_of_your_droplet>>
+
+You will be greeted with a website asking you for your language, choose you language then fill in the form below 
+:warning: pick a strong passord and write it down :warning:
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_firstdetails.png)
+
+Once you have filled in the form, you will then be asked to login.  Login with your chosen Username and password and you;ll be greated with this screen:
+
+Go to `Plugins` and install `WooCommerce`
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_first_mainscreen.png)
+
+Click the search box and find the WooCommerce plugin, then click install.
+
+Next To install the Verus pay Plugin download this file to your desktop:
+https://github.com/monkins1010/VerusPay/archive/master.zip
+
+To install this zip goto `Add new` in plugins then go to `Upload Plugin`
+
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_choose_plugin.png)
+
+Choose the zip you just downloaded to your desktop called `VerusPay-master.zip`
+ 
+---
+Once complete you will see a message saying `Plugin installed succesfully`
+
+
+![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_verus_installed.png)
 
 ## Final setup and test
 
@@ -399,9 +397,9 @@ Chris - Monkins1010
 	* Encrypt the traffic from the website i.e. use SSL 
 	* Firewall the wallet and the Chaintools.php files more securely.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTk3MDc4MjMsLTExNjM1NzU3MTIsLT
-E5MjI1MDAyMzksLTk2MDg2MjI2OCw1ODkzMjcwMzcsMjA0Mjc1
-NTAzOSwtNjE4ODYzOTU3LC01NTIzMzg3NjgsMTI0ODc3NDA0OC
-wtMjgwOTI1MTI4LC0xNzQ0OTI3NDgzLDE3ODAzMzYzNSwyMDQ2
-MjA1MDMyLC0xNTIzMzY1OTc3LDE5MjA2OTEwNDddfQ==
+eyJoaXN0b3J5IjpbLTU5ODE2ODU1MiwtMTE2MzU3NTcxMiwtMT
+kyMjUwMDIzOSwtOTYwODYyMjY4LDU4OTMyNzAzNywyMDQyNzU1
+MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2OCwxMjQ4Nzc0MDQ4LC
+0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMTc4MDMzNjM1LDIwNDYy
+MDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5MTA0N119
 -->
