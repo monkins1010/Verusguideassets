@@ -318,7 +318,7 @@ Need to firewall ChainTools folder so no access allowed by external see guide
 As soon as the droplet is created your website will be available on the internet at  http://<<your_ip_of_your_droplet>>
 
 You will be greeted with a website asking you for your language, choose you language then fill in the form below 
-:warning: pick a strong passord and write it down :warning:
+:warning: pick a strong password and write it down :warning:
 
 ![Alt](https://github.com/monkins1010/Verusguideassets/raw/master/2/wordpress_firstdetails.png)
 
@@ -397,9 +397,10 @@ Chris - Monkins1010
 	* Encrypt the traffic from the website i.e. use SSL 
 	* Firewall the wallet and the Chaintools.php files more securely.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODE2ODU1MiwtMTE2MzU3NTcxMiwtMT
-kyMjUwMDIzOSwtOTYwODYyMjY4LDU4OTMyNzAzNywyMDQyNzU1
-MDM5LC02MTg4NjM5NTcsLTU1MjMzODc2OCwxMjQ4Nzc0MDQ4LC
-0yODA5MjUxMjgsLTE3NDQ5Mjc0ODMsMTc4MDMzNjM1LDIwNDYy
-MDUwMzIsLTE1MjMzNjU5NzcsMTkyMDY5MTA0N119
+eyJoaXN0b3J5IjpbMTg2Mzc2MDIwMywtNTk4MTY4NTUyLC0xMT
+YzNTc1NzEyLC0xOTIyNTAwMjM5LC05NjA4NjIyNjgsNTg5MzI3
+MDM3LDIwNDI3NTUwMzksLTYxODg2Mzk1NywtNTUyMzM4NzY4LD
+EyNDg3NzQwNDgsLTI4MDkyNTEyOCwtMTc0NDkyNzQ4MywxNzgw
+MzM2MzUsMjA0NjIwNTAzMiwtMTUyMzM2NTk3NywxOTIwNjkxMD
+Q3XX0=
 -->
